@@ -1,0 +1,55 @@
+body
+{
+   background-color: #ffc8dd;
+}
+
+nav.navbar {
+    background-color: #cdb4db;
+}
+
+.main {
+    height: 30rem;
+    background-image:url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl6dXh4YTNqaXZmOTJnZWtkdGxxNDEyc3FwN3ptZ2p5eGdpMHdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gpqk76tiVKjn2/giphy.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+h1.dancing-script {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width: max-content;
+    height: max-content;
+    color: white;
+    background-color: #cdb4db;
+
+  }
+
+.img-fluid {
+    height: 100%;
+}
+
+.navheight {
+    height: 56px;
+}
+
+.mainrow {
+    background-color: white;
+}
+
+.heart img {
+    position: relative;
+}
+
+.vidcentered {
+    position: absolute;
+    align-self: center;
+}
+
+.videoSize {
+    height: 30%;
+    width: 30%;
+}

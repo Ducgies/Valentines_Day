@@ -1,0 +1,16 @@
+.card
+{
+   background-color: #ffc8dd;
+}
+
+nav.navbar {
+    background-color: #cdb4db;
+}
+
+.navheight {
+    height: 56px;
+}
+
+.card-img-overlay {
+    background-color: rgba(128, 128, 128, 0.416)
+}
